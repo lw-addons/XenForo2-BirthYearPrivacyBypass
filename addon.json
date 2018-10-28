@@ -1,14 +1,16 @@
 {
-    "legacy_addon_id": "liamShowFulDob",
-    "title": "Bypass Birth Year Privacy",
-    "description": "",
-    "version_id": 3000070,
-    "version_string": "3.0.0",
-    "dev": "",
-    "dev_url": "",
-    "faq_url": "",
-    "support_url": "",
-    "extra_urls": [],
-    "require": [],
-    "icon": ""
+  "legacy_addon_id": "liamShowFulDob",
+  "title": "Bypass Birth Year Privacy",
+  "description": "Allow board staff with 'Bypass user privacy' permission to view ages of all board members.",
+  "version_id": 3000070,
+  "version_string": "3.0.0",
+  "dev": "Liam Williams",
+  "dev_url": "https://lw-addons.net",
+  "faq_url": "",
+  "support_url": "",
+  "extra_urls": {
+    "Contribute on GitHub": "https://github.com/lw-addons/XenForo2-BirthYearPrivacyBypass"
+  },
+  "require": [],
+  "icon": ""
 }
